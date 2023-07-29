@@ -1,0 +1,21 @@
+h1{
+    text-align: center ;
+    align-content: flex-start;
+    background-color: khaki;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 90;
+    overflow: hidden;
+    background-color: aqua;
+  }
+
+h2 {
+    text-align: center;
+    background-color: khaki;
+}
+ul{
+text-align: center;
+}
